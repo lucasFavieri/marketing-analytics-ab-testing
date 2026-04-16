@@ -1,5 +1,7 @@
 # Marketing Campaign Optimization: A/B Testing & ROI Analysis 🛒📈
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucasFavieri/marketing-analytics-ab-testing/blob/main/marketing_ab_testing.ipynb)
+
 This project analyzes the effectiveness of two email marketing campaigns (A and B) for **FreshMart**, an online grocery store. Using statistical inference and business metrics, I determined which strategy maximizes conversion and financial return.
 
 ## 🎯 Business Challenge
